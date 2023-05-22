@@ -6,7 +6,7 @@
 ### <div align="center">Sou apaixonado por desenvolvimento de sistemas e estou estudando e praticando para me tornar um profissional no desenvolvimento WEB.</div>  
   
 
-- 🌱 Estou estudando JavaScript, React, PhP e .NET  
+- 🌱 Estou estudando JavaScript, React, PhP e Node
   
 
 - 🤝 Estou procurando colaborar com projetos focados em Front-End.  
