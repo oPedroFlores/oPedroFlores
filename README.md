@@ -27,8 +27,8 @@ Sou um desenvolvedor full stack com experiência em diversos projetos de front-e
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs-icon.svg" alt="Next.js" height="50" /></a>  
-<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss-icon.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" height="50" /></a>  
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -44,8 +44,8 @@ Sou um desenvolvedor full stack com experiência em diversos projetos de front-e
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original.svg" alt="Docker" height="50" /></a>  
-<a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sequelize-original.svg" alt="Sequelize" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluent/512/docker.png" alt="Docker" height="50" /></a>  
+<a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9kRdGLweCsKE4iXnFpzL628qQlxgAt_WraQ&s" alt="Sequelize" height="50" /></a>  
 </div>
 
 </td></tr></table>  
@@ -53,10 +53,9 @@ Sou um desenvolvedor full stack com experiência em diversos projetos de front-e
 ---
 
 ## 🕹️ Projetos recentes  
-- **Thunder Skins**: Plataforma de compra e venda de skins de CS2.  
 - **PXG Helper**: Ferramenta online gratuita para ajudar jogadores do PokéXGames.  
 - **Venus Marketplace**: Marketplace fictício de NFTs com design em rosa neon.  
-- **Plataforma de Jogos Online**: Desenvolvimento de jogos como War e TikNewToe com Socket.IO e JWT.  
+- **Plataforma de Jogos Online**: Desenvolvimento de jogos como War e TicTacToe com Socket.IO e JWT.  
 - **Sistema de Agendamento**: Plataforma de agendamento para barbeiros usando MySQL e Next.js.
 
 ---
